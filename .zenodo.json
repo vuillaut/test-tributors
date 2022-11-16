@@ -1,6 +1,9 @@
 {
     "creators": [
         {
+            "name": "John Doe",
+        },
+        {
             "name": "vuillaut"
         }
     ],
