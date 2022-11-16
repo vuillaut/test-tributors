@@ -66,6 +66,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: allcontrib
-          path:
-           - .all-contributorsrc
-           - README.md
+          path: .all-contributorsrc
